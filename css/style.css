@@ -1,0 +1,222 @@
+
+div#content div{
+	display: inline-block;
+	width: 48%;
+}
+
+div#content div h2, p{
+	margin: 35px;
+}
+
+div#content div.leftbox{
+	color: yellow;
+	background-color: black;
+	vertical-align: top;
+
+}
+
+div#content div.youtubelink{
+	margin: 30px;
+}
+
+div#content div.rightbox{
+	background-color: black;
+	color: yellow;
+
+
+}
+
+p.bienvenue{
+	color: yellow;
+	font-size: 30PX;
+	
+}
+
+h2.welcome{
+	color: black;
+	font-size: 50px;
+	padding: 105px;
+}
+
+body{
+	
+}
+
+body{;
+}
+
+h2.boutique{
+	color: black;
+	font-size: 50px;
+	padding: 105PX;
+}
+
+h2.réseaux{
+	color: black;
+	font-size: 50px;
+	padding: 105px;
+}
+
+h2.adress{
+	color: black;
+	font-size: 50px;
+	padding: 105px;
+}
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: yellow;
+	background-color: black;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: black;
+	background-color: yellow;
+	transition: 0.5s all;
+}
+
+header{
+	
+}
+
+
+
+footer{
+	color: yellow;
+	background-color: black;
+}
+
+.search input{
+	border-radius: 30px;
+	padding: 10px;
+	border: black;
+	width: 300px;
+}
+
+
+.search i{
+	position: absolute;
+	margin-left: 270px;
+}
+h1{
+	margin-bottom: 10px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body.connect{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+	color: yellow;
+}
+form{
+	margin-top: 20px;
+	background-color: black;
+	padding: 40px 60px;
+	border-radius: 10px;
+	min-width: 300px;
+}
+form h1{
+	color: yellow;
+	text-align: center;
+}
+form .social-media{
+	margin-top: -10px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+}
+
+form .social-media p{
+	padding: 5px;
+	margin-left: 10px;
+	border: 1px solid yellow;
+	border-radius: 100%;
+	width: 20px;
+	text-align: center;
+	cursor: pointer;
+}
+form p.choose-email{
+	text-align: center;
+}
+form .inputs {
+	display: flex;
+	flex-direction: column;
+}
+form .inputs input[type="email"], input[type="password"]{
+	padding: 15px;
+	border-radius: 5px;
+	border: none;
+	background-color: #f2f2f2;
+	margin-bottom: 15px;
+	outline: none;
+}
+form p.inscription{
+	font-size: 14px;
+	margin-bottom: 20px;
+	color: yellow;
+}
+form p.inscription span{
+	color: yellow;
+}
+form button{
+	padding: 15px 25px;
+	border: none;
+	border-radius: 5px;
+	font-size: 15px;
+	color: black;
+	background-color: yellow;
+	outline: none;
+	cursor: pointer;
+}
+header.tittre{
+	display: inline-block;
+	margin: 30px;
+	vertical-align: top;
+	width: 48%;
+}
+
+nav.liens ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.liens ul li.btn a{
+	color: yellow;
+	background-color: black;
+	text-decoration: none;
+	padding: 10px;
+}
+
+nav.liens ul li.btn:hover a{
+	color: black;
+	background-color: yellow;
+	transition: 0.5s all;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+h1.tritrep{
+	text-align: center;
+	color: yellow;
+	background-color: black;
+	
+
+
+}
+
+h2.adress a{
+	color: yellow;
+	background-color: black;
+	text-decoration: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+h2.adress{
+	color: yellow;
+	background-color: black;
+}
